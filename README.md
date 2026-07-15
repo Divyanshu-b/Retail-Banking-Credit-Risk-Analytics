@@ -68,8 +68,7 @@ The clean relational datasets were extracted via MySQL Workbench and integrated 
    - Categorical Analytics Layer: A structural clustered column chart evaluating capital distribution footprints across market segments.
    - Operational Drill-Down Matrix: A complete customer log matching macro-KPI components to granular name rows for direct collection tracking.
 
-
-#💡 Key Business Insights & Strategic Impact
+# 💡 Key Business Insights & Strategic Impact
 
 - Concentrated Portfolio Vulnerability: While the bank's overall global default rate presents a highly manageable footprint of 9.99%, extracting the safe categories exposes a highly volatile 72.25% default rate strictly concentrated within the Subprime tier.
 - Sector-Specific Volatility Risk: The Self-Employed segment is approximately 6x riskier than the Salaried professional market, accounting for ₹1,851,330 in defaults (a 16.96% failure rate) vs. a minor 2.66% failure rate for Salaried applicants.
